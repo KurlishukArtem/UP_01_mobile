@@ -1,230 +1,226 @@
 [
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-debug-31:\\drawable_user.png.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-main-33:\\drawable\\user.png"
+        "merged": "com.example.wsr_pool.app-debug-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.wsr_pool.app-main-33:/drawable/ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-debug-31:\\drawable_bac_button_orange.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-main-33:\\drawable\\bac_button_orange.xml"
+        "merged": "com.example.wsr_pool.app-debug-31:/transition_anim_setting_left.xml.flat",
+        "source": "com.example.wsr_pool.app-main-33:/transition/anim_setting_left.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-debug-31:\\transition_anim_setting_right.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-main-33:\\transition\\anim_setting_right.xml"
+        "merged": "com.example.wsr_pool.app-debug-31:/transition_anim_left.xml.flat",
+        "source": "com.example.wsr_pool.app-main-33:/transition/anim_left.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-debug-31:\\layout_boarding_screen_2.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-main-33:\\layout\\boarding_screen_2.xml"
+        "merged": "com.example.wsr_pool.app-debug-31:/drawable_img_boarding_2.png.flat",
+        "source": "com.example.wsr_pool.app-main-33:/drawable/img_boarding_2.png"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-debug-31:\\drawable_bac_sign_up_screen.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-main-33:\\drawable\\bac_sign_up_screen.xml"
+        "merged": "com.example.wsr_pool.app-debug-31:/drawable_itemectangle.xml.flat",
+        "source": "com.example.wsr_pool.app-main-33:/drawable/itemectangle.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-debug-31:\\drawable_cooking.png.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-main-33:\\drawable\\cooking.png"
+        "merged": "com.example.wsr_pool.app-debug-31:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.wsr_pool.app-main-33:/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-debug-31:\\drawable_home.png.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-main-33:\\drawable\\home.png"
+        "merged": "com.example.wsr_pool.app-debug-31:/drawable_history.png.flat",
+        "source": "com.example.wsr_pool.app-main-33:/drawable/history.png"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-debug-31:\\font_roboto_bold.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-main-33:\\font\\roboto_bold.xml"
+        "merged": "com.example.wsr_pool.app-debug-31:/drawable_bac_launch_screen.png.flat",
+        "source": "com.example.wsr_pool.app-main-33:/drawable/bac_launch_screen.png"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-debug-31:\\xml_network.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-main-33:\\xml\\network.xml"
+        "merged": "com.example.wsr_pool.app-debug-31:/drawable_egg.png.flat",
+        "source": "com.example.wsr_pool.app-main-33:/drawable/egg.png"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-debug-31:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "com.example.wsr_pool.app-debug-31:/layout_category_item.xml.flat",
+        "source": "com.example.wsr_pool.app-main-33:/layout/category_item.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-debug-31:\\drawable_bac_shape.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-main-33:\\drawable\\bac_shape.xml"
+        "merged": "com.example.wsr_pool.app-debug-31:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.wsr_pool.app-main-33:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-debug-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "com.example.wsr_pool.app-debug-31:/drawable_close.png.flat",
+        "source": "com.example.wsr_pool.app-main-33:/drawable/close.png"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-debug-31:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-main-33:\\xml\\data_extraction_rules.xml"
+        "merged": "com.example.wsr_pool.app-debug-31:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.wsr_pool.app-main-33:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-debug-31:\\drawable_itemectangle.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-main-33:\\drawable\\itemectangle.xml"
+        "merged": "com.example.wsr_pool.app-debug-31:/drawable_cooking.png.flat",
+        "source": "com.example.wsr_pool.app-main-33:/drawable/cooking.png"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-debug-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "com.example.wsr_pool.app-debug-31:/drawable_tomato.png.flat",
+        "source": "com.example.wsr_pool.app-main-33:/drawable/tomato.png"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-debug-31:\\layout_category_item.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-main-33:\\layout\\category_item.xml"
+        "merged": "com.example.wsr_pool.app-debug-31:/layout_launch_screen.xml.flat",
+        "source": "com.example.wsr_pool.app-main-33:/layout/launch_screen.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-debug-31:\\transition_anim_setting_left.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-main-33:\\transition\\anim_setting_left.xml"
+        "merged": "com.example.wsr_pool.app-debug-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.wsr_pool.app-main-33:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-debug-31:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-main-33:\\xml\\backup_rules.xml"
+        "merged": "com.example.wsr_pool.app-debug-31:/drawable_magnifier_ic.png.flat",
+        "source": "com.example.wsr_pool.app-main-33:/drawable/magnifier_ic.png"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-debug-31:\\drawable_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-main-33:\\drawable\\ic_launcher_foreground.xml"
+        "merged": "com.example.wsr_pool.app-debug-31:/layout_boarding_screen_2.xml.flat",
+        "source": "com.example.wsr_pool.app-main-33:/layout/boarding_screen_2.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-debug-31:\\drawable_shopping_cart.png.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-main-33:\\drawable\\shopping_cart.png"
+        "merged": "com.example.wsr_pool.app-debug-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.wsr_pool.app-main-33:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-debug-31:\\layout_sign_in_screen.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-main-33:\\layout\\sign_in_screen.xml"
+        "merged": "com.example.wsr_pool.app-debug-31:/drawable_shopping_cart_black.png.flat",
+        "source": "com.example.wsr_pool.app-main-33:/drawable/shopping_cart_black.png"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-debug-31:\\drawable_img_boarding_2.png.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-main-33:\\drawable\\img_boarding_2.png"
+        "merged": "com.example.wsr_pool.app-debug-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.wsr_pool.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-debug-31:\\transition_anim_left.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-main-33:\\transition\\anim_left.xml"
+        "merged": "com.example.wsr_pool.app-debug-31:/layout_one_item_screen.xml.flat",
+        "source": "com.example.wsr_pool.app-main-33:/layout/one_item_screen.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-debug-31:\\layout_food_item.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-main-33:\\layout\\food_item.xml"
+        "merged": "com.example.wsr_pool.app-debug-31:/drawable_bac_button_white.xml.flat",
+        "source": "com.example.wsr_pool.app-main-33:/drawable/bac_button_white.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-debug-31:\\layout_launch_screen.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-main-33:\\layout\\launch_screen.xml"
+        "merged": "com.example.wsr_pool.app-debug-31:/layout_without_internet_screen.xml.flat",
+        "source": "com.example.wsr_pool.app-main-33:/layout/without_internet_screen.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-debug-31:\\drawable_selector_category.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-main-33:\\drawable\\selector_category.xml"
+        "merged": "com.example.wsr_pool.app-debug-31:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.example.wsr_pool.app-main-33:/mipmap-anydpi/ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-debug-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "com.example.wsr_pool.app-debug-31:/layout_food_item.xml.flat",
+        "source": "com.example.wsr_pool.app-main-33:/layout/food_item.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-debug-31:\\drawable_magnifier_ic.png.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-main-33:\\drawable\\magnifier_ic.png"
+        "merged": "com.example.wsr_pool.app-debug-31:/drawable_bac_button_orange.xml.flat",
+        "source": "com.example.wsr_pool.app-main-33:/drawable/bac_button_orange.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-debug-31:\\layout_main_screen.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-main-33:\\layout\\main_screen.xml"
+        "merged": "com.example.wsr_pool.app-debug-31:/layout_main_screen.xml.flat",
+        "source": "com.example.wsr_pool.app-main-33:/layout/main_screen.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-debug-31:\\font_italianno.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-main-33:\\font\\italianno.xml"
+        "merged": "com.example.wsr_pool.app-debug-31:/drawable_home.png.flat",
+        "source": "com.example.wsr_pool.app-main-33:/drawable/home.png"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-debug-31:\\layout_sign_up_screen.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-main-33:\\layout\\sign_up_screen.xml"
+        "merged": "com.example.wsr_pool.app-debug-31:/layout_sign_in_screen.xml.flat",
+        "source": "com.example.wsr_pool.app-main-33:/layout/sign_in_screen.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-debug-31:\\mipmap-anydpi_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-main-33:\\mipmap-anydpi\\ic_launcher_round.xml"
+        "merged": "com.example.wsr_pool.app-debug-31:/layout_sign_up_screen.xml.flat",
+        "source": "com.example.wsr_pool.app-main-33:/layout/sign_up_screen.xml"
+    },
+    {
+        "merged": "com.example.wsr_pool.app-debug-31:/drawable_bac_sign_up_screen.xml.flat",
+        "source": "com.example.wsr_pool.app-main-33:/drawable/bac_sign_up_screen.xml"
+    },
+    {
+        "merged": "com.example.wsr_pool.app-debug-31:/font_italianno.xml.flat",
+        "source": "com.example.wsr_pool.app-main-33:/font/italianno.xml"
+    },
+    {
+        "merged": "com.example.wsr_pool.app-debug-31:/transition_anim_setting_right.xml.flat",
+        "source": "com.example.wsr_pool.app-main-33:/transition/anim_setting_right.xml"
+    },
+    {
+        "merged": "com.example.wsr_pool.app-debug-31:/transition_anim_right.xml.flat",
+        "source": "com.example.wsr_pool.app-main-33:/transition/anim_right.xml"
+    },
+    {
+        "merged": "com.example.wsr_pool.app-debug-31:/font_nunito.xml.flat",
+        "source": "com.example.wsr_pool.app-main-33:/font/nunito.xml"
+    },
+    {
+        "merged": "com.example.wsr_pool.app-debug-31:/drawable_arrow_ic.png.flat",
+        "source": "com.example.wsr_pool.app-main-33:/drawable/arrow_ic.png"
+    },
+    {
+        "merged": "com.example.wsr_pool.app-debug-31:/drawable_back_btn.png.flat",
+        "source": "com.example.wsr_pool.app-main-33:/drawable/back_btn.png"
+    },
+    {
+        "merged": "com.example.wsr_pool.app-debug-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.wsr_pool.app-main-33:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
         "merged": "com.example.wsr_pool.app-debug-31:/xml_network.xml.flat",
         "source": "com.example.wsr_pool.app-main-33:/xml/network.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-debug-31:\\drawable_close.png.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-main-33:\\drawable\\close.png"
+        "merged": "com.example.wsr_pool.app-debug-31:/font_roboto_bold.xml.flat",
+        "source": "com.example.wsr_pool.app-main-33:/font/roboto_bold.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-debug-31:\\drawable_bac_launch_screen.png.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-main-33:\\drawable\\bac_launch_screen.png"
+        "merged": "com.example.wsr_pool.app-debug-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.wsr_pool.app-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-debug-31:\\drawable_history.png.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-main-33:\\drawable\\history.png"
+        "merged": "com.example.wsr_pool.app-debug-31:/drawable_bac_shape.xml.flat",
+        "source": "com.example.wsr_pool.app-main-33:/drawable/bac_shape.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-debug-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "com.example.wsr_pool.app-debug-31:/layout_food_detail_item.xml.flat",
+        "source": "com.example.wsr_pool.app-main-33:/layout/food_detail_item.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-debug-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "com.example.wsr_pool.app-debug-31:/drawable_selector_category.xml.flat",
+        "source": "com.example.wsr_pool.app-main-33:/drawable/selector_category.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-debug-31:\\layout_one_item_screen.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-main-33:\\layout\\one_item_screen.xml"
+        "merged": "com.example.wsr_pool.app-debug-31:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.wsr_pool.app-main-33:/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-debug-31:\\drawable_img_boarding_1.png.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-main-33:\\drawable\\img_boarding_1.png"
+        "merged": "com.example.wsr_pool.app-debug-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.wsr_pool.app-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-debug-31:\\drawable_tomato.png.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-main-33:\\drawable\\tomato.png"
+        "merged": "com.example.wsr_pool.app-debug-31:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.wsr_pool.app-main-33:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-debug-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "com.example.wsr_pool.app-debug-31:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.wsr_pool.app-main-33:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-debug-31:\\font_nunito.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-main-33:\\font\\nunito.xml"
+        "merged": "com.example.wsr_pool.app-debug-31:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.example.wsr_pool.app-main-33:/mipmap-anydpi/ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-debug-31:\\mipmap-anydpi_ic_launcher.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-main-33:\\mipmap-anydpi\\ic_launcher.xml"
+        "merged": "com.example.wsr_pool.app-debug-31:/layout_boarding_screen_1.xml.flat",
+        "source": "com.example.wsr_pool.app-main-33:/layout/boarding_screen_1.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-debug-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "com.example.wsr_pool.app-debug-31:/xml_backup_rules.xml.flat",
+        "source": "com.example.wsr_pool.app-main-33:/xml/backup_rules.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-debug-31:\\drawable_arrow_ic.png.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-main-33:\\drawable\\arrow_ic.png"
+        "merged": "com.example.wsr_pool.app-debug-31:/drawable_shopping_cart.png.flat",
+        "source": "com.example.wsr_pool.app-main-33:/drawable/shopping_cart.png"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-debug-31:\\drawable_shopping_cart_black.png.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-main-33:\\drawable\\shopping_cart_black.png"
+        "merged": "com.example.wsr_pool.app-debug-31:/drawable_user.png.flat",
+        "source": "com.example.wsr_pool.app-main-33:/drawable/user.png"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-debug-31:\\drawable_bac_button_white.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-main-33:\\drawable\\bac_button_white.xml"
-    },
-    {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-debug-31:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
-    },
-    {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-debug-31:\\transition_anim_right.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-main-33:\\transition\\anim_right.xml"
-    },
-    {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-debug-31:\\layout_without_internet_screen.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-main-33:\\layout\\without_internet_screen.xml"
-    },
-    {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-debug-31:\\layout_boarding_screen_1.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-main-33:\\layout\\boarding_screen_1.xml"
-    },
-    {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-debug-31:\\layout_food_detail_item.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-main-33:\\layout\\food_detail_item.xml"
-    },
-    {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-debug-31:\\drawable_back_btn.png.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-main-33:\\drawable\\back_btn.png"
-    },
-    {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-debug-31:\\drawable_egg.png.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-main-33:\\drawable\\egg.png"
-    },
-    {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-debug-31:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-main-33:\\drawable\\ic_launcher_background.xml"
-    },
-    {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-debug-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.wsr_pool.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "com.example.wsr_pool.app-debug-31:/drawable_img_boarding_1.png.flat",
+        "source": "com.example.wsr_pool.app-main-33:/drawable/img_boarding_1.png"
     }
 ]
