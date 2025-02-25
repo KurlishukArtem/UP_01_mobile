@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FA4A0C"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:layoutAnimation="@transition/anim_setting_right">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/img_boarding_2"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnIn"
+            android:layout_width="160dp"
+            android:layout_height="70dp"
+            android:layout_margin="20dp"
+            android:background="@drawable/bac_button_white"
+            android:fontFamily="@font/italianno"
+            android:onClick="SignIn"
+            android:text="sign in"
+            android:textFontWeight="500"
+            android:textAllCaps="false"
+            android:textSize="44dp" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnUp"
+            android:layout_width="160dp"
+            android:layout_height="70dp"
+            android:layout_margin="20dp"
+            android:background="@drawable/bac_button_white"
+            android:fontFamily="@font/italianno"
+            android:onClick="SignUp"
+            android:textFontWeight="500"
+            android:textAllCaps="false"
+            android:text="sign up"
+            android:textSize="44dp" />
+    </LinearLayout>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="○ ●"
+        android:textColor="#FFFFFF"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:layout_marginTop="20dp"/>
+</LinearLayout>
